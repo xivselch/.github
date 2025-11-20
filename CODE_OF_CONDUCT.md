@@ -1,7 +1,5 @@
 # Contributor Covenant Code of Conduct
 
-## Our Pledge
-
 In the interest of fostering an open and welcoming community, we as contributors and maintainers pledge to make participation in X|V Selch projects a harassment-free experience for everyone.
 
 ## Our Standards
