@@ -25,9 +25,9 @@ Thanks for your interest in contributing! We welcome contributions of all kinds:
 
 ## Documentation Contributions
 
-- Documentation is maintained in the [docs repository](https://github.com/xivselch/docs) for topics like legal or general guides, and API documentation is in the [api repository](https://github.com/xivselch/api).
+- Documentation for static content (such as legal or general guides) is maintained in the [static repository](https://github.com/xivselch/static), while API documentation is in the [api repository](https://github.com/xivselch/api).
 - When updating documentation, follow the current structure and writing style.
-- For future translations, create a subfolder using the language code (e.g., `/docs/fr`, `/docs/es`, etc.).
+- For future translations, please create a directory named with the appropriate two-letter [ISO 639-1](https://www.loc.gov/standards/iso639-2/php/code_list.php) language code (e.g., `fr`, `de`, etc.).
 
 ## Code Style & Tests
 
