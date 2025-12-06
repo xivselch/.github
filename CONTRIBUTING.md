@@ -23,12 +23,6 @@ Thanks for your interest in contributing! We welcome contributions of all kinds:
 - Please check existing issues before opening a new one.
 - Provide a clear description of the bug or feature, steps to reproduce (if bug), and any relevant logs or screenshots.
 
-## Documentation Contributions
-
-- Documentation for static content (such as legal or general guides) is maintained in the [static repository](https://github.com/xivselch/static), while API documentation is in the [api repository](https://github.com/xivselch/api).
-- When updating documentation, follow the current structure and writing style.
-- For future translations, please create a directory named with the appropriate two-letter [ISO 639-1](https://www.loc.gov/standards/iso639-2/php/code_list.php) language code (e.g., `fr`, `de`, etc.).
-
 ## Code Style & Tests
 
 - Follow existing coding conventions (indentation, formatting).
